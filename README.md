@@ -1,3 +1,2 @@
 # ZTP2
-
-Metoda Fabrykująca
+Factory Method
